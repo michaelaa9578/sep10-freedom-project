@@ -1,8 +1,20 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Choosing Medicine 
+##### 10/24/23
 
-Text
+## Determining my topic
 
-[Next](entry02.md)
+Having to choose a single topic from hundreds was, to put it mildly, difficult. There was a vast amount of potential which correlated to my many interests. In spite of these numerous topics, I've always pictured myself in the medical field. I therefore decided that medicine was most likely the only department I could associate myself with for a majorty of my life without the lingering fear of losing my passion. Acknowledging the importance of healthcare for me and billions of other people helped me to realize the significant impact medicine could have on the world alongside technology. Currently, technology is already making a notable and global difference in the medical industry. The article, '[Top 10 Medical Technologies 2022: Innovations In The Medical Field](https://www.techbusinessnews.com.au/top-10-medical-technologies-2022-innovations-in-the-medical-field/)' emphasizes the congruity between technology and medicine by listing the few most commonly utilized innovations used in hospitals including health monotoring devices, genomic sequencing, MRNA technology, robotics, etc. The [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4048524/#:~:text=The%20new%20technologies%20will%20allow,several%20other%20benefits%20that%20would) offers the prospective future technology can offer regarding the healthcare system. This consists of remote monitoring, medicine administration, medication compliance, and the overall development of more efficient medical concepts.
 
-[Home](../README.md)
+## Engineering Design Process
+
+I am currently on the second step of the engineering design process. This means I'm conducting research on the given problem in step 1. I have already defined my problem which is the fear of adaptability. Biologically, humans often perceieve uncertainty as a threat which is why change is feared by many. Technology, particularly electronic, is a very recentley developed conception that's gradually taking over the globe. Multiple concerns arise from this rapid evolution (mostly the product of fear). Will AI surpass human beings? Will cybersecurity worsen with time? Is technology more harmful than helpful? Although these questions can't yet be fully answered, I'm left to finish my second step in the engineering design process which combines research to try to find any answers. Eventually, once I collect information on the given topic, I'll brainstorm and formulate a plan to create possible solutions to my problem. This will be the third step to the design engeering process. 
+
+## Skills
+
+Although I'm in the raw stages of the freedom project, I've already aqquired a few beneficial skills, one of which covers project management. As I'm beginning to write my blog to documenet my project from start to finish, I learned to structure my work in a way that's easy to comprehend. Before working on my project, I found projects, especially essays, extremely challenging to organize. I wouldn't know how or when to transition from one subject to another. It was abundantly akward having to switch from a depressing to positive tone in my english class discussions for example. During the process of project management, I was forced to continuously practice connecting, layering, and modifying certain parts of my claim in order to align with my sub claims. In the end, this skill was able to earn me a better summative grade for english and continue to maintain an evident subject in my freedom project.   
+
+Another skill I was able to achieve through this project so far was decision making. I've always struggled making choices growing up. I found it hard to believe how people made roughly 35,000 decisions in a day when it took me hours to make a single one. As I've stated before, I was overly conflicted when given a list of occupations to choose from in the very beginning of the freedom project. I recognize now that I took too much time considering other minor details when I should've been focusing on the big picture. I had a similar problem with math. I would almost always overcomplicate my solution by using various formulas for a problem that simply required one. While it's of course helpful to finalize your work by using alternatives to check your methods, overanalyzing can overwwhelm you and in time drain you. Through this project, I learned to examine a situation to a certain degree which in turn helped my decision making. In terms of math, I was able to write down a straightforward answer making it easier for both me and my teacher's comprehension.   
+
+## Reflection
+
+I look forward to gaining various other new skills throughout this project. I've learned more than I thought I was capable of. I hope I continue to surprise myself while also further fueling my passion for medicine.
