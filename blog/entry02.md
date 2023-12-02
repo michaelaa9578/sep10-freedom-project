@@ -9,18 +9,14 @@
 
 <p> <li> My first google search: healthcare apps </li> </p>
 
-Findings: The first app I looked into was https://www.imedicalapps.com/wp-content/uploads/2016/07/WebMD2.jpg (WebMD)
-This app provides brief medical care including symptom checks, treatments, listings, etc.
-Can be helpful to temporarily maintain health when in absence of a doctor
-Consists of labels for easy navigation
+Findings: The first app I looked into was [WebMD](https://www.imedicalapps.com/wp-content/uploads/2016/07/WebMD2.jpg). This app was able to provide brief medical care including symptom checks, treatments, listings, etc. With these factors in consideration, the app can be beneficial in temporarily maintaining health when in absence of a medical professional. Additionally, the app consists of various sections and labels which makes navigation easily comprehensible. In short, this application is easy to use and efficient in its goal to manage health. 
   
 <p> <li> My second google search: health assessment applications </li> </p>
-Second app looked into: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10278-017-9977-2/MediaObjects/10278_2017_9977_Fig1_HTML.gif (Epocrates)
-This app also provides brief medical care but with a greater variety of topics including pill ids, drugs, diseases, etc.
-Can be helpful in identifying healthcare products and researching disease 
+Findings: The second app I looked into was [Epocrates](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10278-017-9977-2/MediaObjects/10278_2017_9977_Fig1_HTML.gif). This app also provides brief medical care but with a greater variety of topics including pill ids, drugs, diseases, etc.
+Can be helpful in identifying healthcare products and researching disease. 
 
 <p> <li> My third google search: health information apps </li> </p> 
-Third app looked into: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/24/5c/39245c97-2624-4f40-b91d-4b562646806a/21ac9d05-0f86-4c2d-a130-1559e15f4207_Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2022-10-26_at_09.16.09.png/460x0w.webp (DynaMed)
+Third app looked into was [DynaMed](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/24/5c/39245c97-2624-4f40-b91d-4b562646806a/21ac9d05-0f86-4c2d-a130-1559e15f4207_Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2022-10-26_at_09.16.09.png/460x0w.webp).
 This app provides articles on medical conditions. 
 Can be helpful in learning about certain medical properties.
 Consists of images for visualization of the given information for better comprehension
