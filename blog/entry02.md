@@ -1,11 +1,9 @@
-# Entry 2
+# Entry 2: The information I have gathered regarding software/hardware technologies in relation to my topic
 ##### 11/30/23
 
-### Technologies I Have Found in My Topic
+### Topic: Healthcare 
 
-### Topic: Hospital/Health Care
-
-#### Applications
+#### Searches
 
 <p> <li> My first google search: healthcare apps </li> </p>
 
