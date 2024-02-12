@@ -15,7 +15,11 @@ I tinkered with Aframe by using
   </a-scene>`
 ```
 
-in [JS Bin](https://jsbin.com/diwajodedo/edit?html,output). This command inputs a certain model with different structuring based on the user’s input. I changed the background color, shapes of the given structures and their placement.This made me interested in Aframe because of the variety of code you get to utilize without the code being overwhelmingly difficult alongside the interactivity the model comes with in the output. A backup I have is Tailwind because the tool comes with the same spectrum of optimization (colors, placement, etc.), although I feel it’s slightly more focused on organization rather than model designing which I happen to be more engaged with.
+in [JS Bin](https://jsbin.com/diwajodedo/edit?html,output). This command inputs a certain model with different structuring based on the user’s input. I changed the background color, shapes of the given structures and their placement.This made me interested in Aframe because of the variety of code you get to utilize without the code being overwhelmingly difficult alongside the interactivity the model comes with in the output. A backup I have is Tailwind because the tool comes with the same spectrum of optimization (colors, placement, etc.). 
+
+
+
+Although I feel it’s slightly more focused on organization (being that it uses elements such as styles, typography, sizing, etc.) rather than model designing which I happen to be more engaged with. 
 
 ### Engineering Design Process
 
