@@ -17,26 +17,7 @@ I started tinkering with Aframe by using
   </a-scene>`
 ```
 
-in [JS Bin](https://jsbin.com/diwajodedo/edit?html,output). This command inputs a certain model with different structuring based on the user’s input. I changed the background color, shapes of the given structures and their placement. This made me interested in Aframe because of the variety of code you get to utilize without the code being overwhelmingly difficult alongside the interactivity the model comes with in the output. A backup I have is Tailwind because the tool comes with the same spectrum of optimization (colors, placement, etc.), although I feel it’s slightly more focused on organization rather than model designing which I happen to be more engaged with.
-
-I also tinkered with Tailwind by using
-
-```html
-<div class="space-y-5">
-  <div class="p-3 bg-white shadow rounded-lg">
-    <h3 class="text-xs border-b">font-mono</h3>
-    <p class="font-mono">
-      The quick brown fox jumps over the lazy dog.
-    </p>
-  </div>
-  <div class="p-3 bg-white shadow rounded-lg">
-    <h3 class="text-xs border-b">font-serif</h3>
-    <p class="font-serif">
-      The quick brown fox jumps over the lazy dog.
-    </p>
-```
-
-This command inputs different typography styles. I changed the initial style of the first div which was Sans Serif and I changed it to Mono. This particular code is what changed my perspective on Tailwind as a whole being that the code made up for a majority of aspects. Typography was evidently a significant feature of Tailwind alongside features like shadows, colors, sizing (features which primarily revolved around text). In [JS Bin](https://jsbin.com/kurudizoso/edit?html,output), you can see that the output consists of altered text styles. What I'd prefer to see are altered physical model styles (squares with rounded angles, ovals made up of tiny squares, etc.).
+in [JS Bin](https://jsbin.com/diwajodedo/edit?html,output). This command inputs a certain model with different structuring based on the user’s input. I changed the background color, shapes of the given structures and their placement.This made me interested in Aframe because of the variety of code you get to utilize without the code being overwhelmingly difficult alongside the interactivity the model comes with in the output. A backup I have is Tailwind because the tool comes with the same spectrum of optimization (colors, placement, etc.), although I feel it’s slightly more focused on organization rather than model designing which I happen to be more engaged with.
 
 ### Engineering Design Process
 
