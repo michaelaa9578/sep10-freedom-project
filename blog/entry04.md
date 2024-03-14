@@ -5,7 +5,7 @@
 
 Healthcare has enabled the prospering of civilizations since the beginning of time. Healthcare is a spectrum of concepts which conjoins factors including diagnosis, prevention, cures, treatments, etc. Tinkering with different tools is often practiced in the medical field to continue advancing these treatments which is why...
 
-I started tinkering with Aframe by using
+I tinkered with Aframe by using
 
 ```html
   <a-scene>
@@ -18,6 +18,43 @@ I started tinkering with Aframe by using
 ```
 
 in [JS Bin](https://jsbin.com/diwajodedo/edit?html,output). This command inputs a certain model with different structuring based on the user’s input. I changed the background color, shapes of the given structures and their placement.This made me interested in Aframe because of the variety of code you get to utilize without the code being overwhelmingly difficult alongside the interactivity the model comes with in the output. A backup I have is Tailwind because the tool comes with the same spectrum of optimization (colors, placement, etc.), although I feel it’s slightly more focused on organization rather than model designing which I happen to be more engaged with.
+
+I also tinkered with Tailwind by using
+
+```html
+
+      <div class="flex space-x-4">
+        <button class="px-6 h-12 uppercase font-semibold tracking-wider border-2 border-black bg-teal-400 text-black" type="submit">
+          Buy now
+        </button>
+        <button class="px-6 h-12 uppercase font-semibold tracking-wider border border-slate-200 text-slate-900" type="button">
+          Add to bag
+        </button>
+        <button class="px-6 h-12 uppercase font-semibold tracking-wider border border-slate-200 text-slate-900" type="button">
+          View cart
+        </button>
+      </div>
+
+```
+as well as
+
+```html
+
+        <label>
+          <input class="sr-only peer" name="size" type="radio" value="xs" checked />
+          <div class="relative w-10 h-10 flex items-center justify-center text-black peer-checked:bg-black peer-checked:text-white before:absolute before:z-[-1] before:top-0.5 before:left-0.5 before:w-full before:h-full peer-checked:before:bg-teal-400">
+            XS
+          </div>
+        </label>
+        <label>
+          <input class="sr-only peer" name="size" type="checkbox" value="s" />
+          <div class="relative w-10 h-10 flex items-center justify-center text-black peer-checked:bg-black peer-checked:text-white before:absolute before:z-[-1] before:top-0.5 before:left-0.5 before:w-full before:h-full peer-checked:before:bg-teal-400">
+            S
+          </div>
+        </label>
+
+```
+once again in [JS Bin](https://jsbin.com/wojanetete/edit?html,output). In the first snippet, I added the button "add to cart" to two existing buttons. In the second snippet, I changed a few buttons to make them checkboxes instead of radio buttons. Through changing and testing these features, I realized that I was altering the way in which text was organized which only further pushed me towards working on Aframe as this tool was mostly focused on the structure of code whereas in comparison to Aframe, Aframe focused on physics and design (more of what I'm interested in). However, Tailwind does make up for a good backup tool as it consists of a variety of components such as shadows, colors, etc.
 
 ### Engineering Design Process
 
