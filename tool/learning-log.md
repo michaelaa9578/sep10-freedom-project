@@ -4,7 +4,7 @@ Tool: Aframe
 
 ---
 
-3/14/24:
+### 3/14/24:
 * Links you used today (websites, videos, etc)
 
   * My partner and I created a [wireframe](https://wireframe.cc/zawn6r) to have a rough draft of our project. This is to help us envision certain parts in a general way but as we gradually continue to edit our content to be more thorough, we'll add more details to that original layout (or even completely change it).
@@ -67,7 +67,7 @@ Tool: Aframe
 
 
 
-3/21/24:
+### 3/21/24:
 * Links you used today (websites, videos, etc)
 
   * My partner and I created a [wireframe](https://wireframe.cc/zawn6r) to have a rough draft of our project. This is to help us envision certain parts in a general way but as we gradually continue to edit our content to be more thorough, we'll add more details to that original layout (or even completely change it).
