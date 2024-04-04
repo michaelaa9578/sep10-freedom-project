@@ -140,5 +140,29 @@ We chose these components mainly also because they're evidently similiar to each
 
 * What you're going to try next
  
+  * I'm going to try to finalize the solution to altering only my tinkering file instead of all files at once by somehow further altering the links.
+ 
+
+### 4/4/24:
+* Links you used today (websites, videos, etc)
+
+  * I used [bootstrapmade](https://bootstrapmade.com/) and [startbootstrap](https://startbootstrap.com/) to browse various bootstrap templates. 
+  
+* Things you tried, progress you made, etc
+  
+  * By browsing different bootstrap templates, I was able to observe usage of links, text, videos, etc. (all of which are used through Aframe.
+  * I tried experimenting with at least two different websites to better determine which website better corresponded to my tool/which website was easier to use.
+  * I ended choosing [bootstrapmade](https://bootstrapmade.com/) because it followed both of my desired attributes (easy usage and correspondence with my tool).   
+  
+* Challenges, a-ha moments, etc
+
+  *I'm finding it difficult to tinker with a given template without mixing up my files and altering everything at once. This includes linking the correct CSS/HTML links with the right file.  
+
+* Questions you still have
+
+  * Will we only be limited to the code which we have learned in class or go beyond that? 
+
+* What you're going to try next
+ 
   * I'm going to try to finalize the solution to altering only my tinkering file instead of all files at once by somehow further altering the links. 
 
