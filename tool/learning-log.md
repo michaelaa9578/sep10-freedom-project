@@ -146,23 +146,48 @@ We chose these components mainly also because they're evidently similiar to each
 ### 4/4/24:
 * Links you used today (websites, videos, etc)
 
-  * I used [bootstrapmade](https://bootstrapmade.com/) and [startbootstrap](https://startbootstrap.com/) to browse various bootstrap templates. 
+  * I used [Aframe](https://aframe.io/docs/1.5.0/introduction/) to browse various code pertaining to my tool. 
   
 * Things you tried, progress you made, etc
+
+  * While completing the second day plan to my overall plan, I would end up drafting a simple, mini project which would revolve around 3D modeling. In this case, I would focus less on bootstrap templates, for example, being that bootstrap templates focus on organization of elements and rather on various camera movements and 3D shapes. Particular code I used was...
   
-  * By browsing different bootstrap templates, I was able to observe usage of links, text, videos, etc. (all of which are used through Aframe.
-  * I tried experimenting with at least two different websites to better determine which website better corresponded to my tool/which website was easier to use.
-  * I ended choosing [bootstrapmade](https://bootstrapmade.com/) because it followed both of my desired attributes (easy usage and correspondence with my tool).   
+```html
+
+<a-scene background="color: #ECECEC">
+  <a-assets>
+    <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item>
+  </a-assets>
+</a-scene>
+
+```
+
+...which was the code I used to implement a 3D background. 
+
+```html
+
+<a-scene background="color: #ECECEC">
+  <a-assets>
+    <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item>
+  </a-assets>
+  <a-entity gltf-model="#cityModel" modify-materials></a-entity>
+  <a-entity geometry="primitive: box" material="color: red"
+  light="type: point; intensity: 2.0">
+</a-scene>
+
+```
+
+I later also added an entity with different color and lighting properties, ultimately altering the initial city background to make it red and more bright. Essentially, it was able to come to life through the entity.  
   
 * Challenges, a-ha moments, etc
 
-  *I'm finding it difficult to tinker with a given template without mixing up my files and altering everything at once. This includes linking the correct CSS/HTML links with the right file.  
+  * I was having trouble with knowing where to specifically input code. For example, I struggled to find out where in the HTML I had to incorporate the entity. With guidance, I finally found out that the code belonged within the background code instead of being positioned on its own. 
 
 * Questions you still have
 
-  * Will we only be limited to the code which we have learned in class or go beyond that? 
+  * What other categories of Aframe might be necessary to 3D modeling? 
 
 * What you're going to try next
  
-  * I'm going to try to finalize the solution to altering only my tinkering file instead of all files at once by somehow further altering the links. 
+  * I'm going to try to include more purposeful components of Aframe into my mini project being that as of now, it only consists of experimental code rather than code which connects to my topic.  
 
