@@ -39,6 +39,10 @@ These machines revolve around one’s specific health and thoroughly  align with
 * [Gadget 2]( https://techcrunch.com/wp-content/uploads/2019/01/IMG_2496-e1546831644832.jpg )
 * [Gadget 3]( https://pharmashots.com/public/images/20211116013034_ogImage_43.jpg )
 
+* [App 1: WebMD]( https://www.imedicalapps.com/wp-content/uploads/2016/07/WebMD2.jpg )
+* [App 2: Epocrates]( https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10278-017-9977-2/MediaObjects/10278_2017_9977_Fig1_HTML.gif )
+* [App 3: DynaMed]( https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/24/5c/39245c97-2624-4f40-b91d-4b562646806a/21ac9d05-0f86-4c2d-a130-1559e15f4207_Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2022-10-26_at_09.16.09.png/460x0w.webp )
+
 ## Part B: possible future technology
 
 ###### Advanced blood tester
