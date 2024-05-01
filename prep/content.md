@@ -4,7 +4,7 @@ Topic: Medicine
 ## Overview/Introduction/Context
 * Healthcare has enabled the prospering of civilizations since the beginning of time.
 * Healthcare is a spectrum of concepts which conjoins factors including diagnosis, prevention, cures, treatments, etc.
-* Technology has and will continue to make up a significant percentage of success in the health industry  the info you have gathered regarding the software + hardware technologies you found in your topic.
+* Technology has and will continue to make up a significant percentage of success in the health industry.
 
 ## Part A: existing technology
 
