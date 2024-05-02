@@ -1,12 +1,12 @@
 # SEP10 Freedom Project
-by **X**
+by **Michaela Arendac**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**.
+For my project, I chose the topic of **medicine**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **medicine** in order to help me make by website.
 
 ## Links
 
@@ -16,9 +16,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-*
+* Was able to experiment with new bootstrap components and generally extended my knowledge on components from not being able to complete certain planned out parts.
 ##### CONS
-*
+* Wasn't able to execute some ideas due to continuous complications which meant that it would take longer to finish the overall project by having to find alternatives.
 
 
 ## Blog
