@@ -16,14 +16,14 @@ I struggled to follow my timeline being that I struggled with the content itself
 
 ### EDP
 
-..
+I'm moving to the final eigth stage of the engineering design process where I communicate my end results with my peers. 
 
 ### Skills
 
-One skill I was able to work on throughout the project was logic. I was able to gain this skill through trying to incorporate the carousel component.   
+One skill I was able to work on throughout the project was logic. I was able to gain this skill through trying to incorporate the carousel component. As it started to consume a lot of my time and divert my attention from other important parts of the project, I decided that the logical choice would be to replace the carousel with another feature instead of continuosly working on it without guaranteed results. I was able to utilize this skill in my everyday life, especially in decision making. When deciding on my courses for next year, I decided to choose biology over chemistry being that chemistry would most likely overwhelm me in the long run. This decison has already saved me mental strain in that I don't have to focus on a subject that doesn't particulalry interest me. Another skill I was able to work on throughout the project was time managament, although I didn't perfect the skill. I was able to create a plan which, for the most part, I thoroughly followed making the project less overwhelming to fully complete. I was able to incorporate this skill into completeing homework in other classes. The remainder of the marking period, I was able to hand in most of my work raising my overall indepedent practice grade.   
 
 ### Reflection
-I look forward to continue finding new potential solutions even with an existing primary solution to ensure the continuation of medicine.
+I look forward to finding ways to improve my freedom project through feedback which other students and I will exchange. 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
