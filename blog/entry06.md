@@ -16,7 +16,7 @@ I struggled to follow my timeline being that I struggled with the content itself
 
 ### EDP
 
-I'm to stages 6 and 7 of the engineering design process where I test and test and evaluate my prototype as well as improve as needed. I have finished creating my final prototype which was the fifth/previous stage of my project. During these current stages of the project, I'll test to see the effectiveness of my project and highlight the dysfunctional aspects of it to later consider it for potential solutions. Once I complete testing out my code, I'll move to the final eighth stage of the engineering design process where I communicate my end results with my peers.  
+I'm in stages 6 and 7 of the engineering design process where I test and test and evaluate my prototype as well as improve as needed. I have finished creating my final prototype which was the fifth/previous stage of my project. During these current stages of the project, I'll test to see the effectiveness of my project and highlight the dysfunctional aspects of it to later consider it for potential solutions. Once I complete testing out my code, I'll move to the final eighth stage of the engineering design process where I communicate my end results with my peers.  
 
 ### Skills
 
