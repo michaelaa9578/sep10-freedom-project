@@ -24,6 +24,13 @@
 * 4/19-4/29: Work on Aframe simulation and input blog links
 * 4/30: Check to make sure all MVP requirments are in the project
 
+Revisions:
+
+[] Add font to "Brain Gadget" caption to make it align with its attached image.
+[] Make padding smaller so the website doesn't look too spaced out.
+[] Make future and existing technology go side by side so it's easier to read
+[] Make navbar scrollable instead of having it automatically jump from section to section.
+
 ---
 
 #### Beyond MVP
