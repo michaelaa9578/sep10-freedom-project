@@ -489,6 +489,7 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  padding: 5px;
 }
 
 .display-1 {
@@ -10835,6 +10836,7 @@ header {
 section {
   padding-top: 9rem;
   padding-bottom: 9rem;
+  padding: 80px;
 }
 
 .card {
@@ -10868,10 +10870,10 @@ img{
   }
 
 #bone {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   line-height: 1.5;
 
 }
@@ -10879,7 +10881,4 @@ img{
  #mainNav {
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-
+ }
